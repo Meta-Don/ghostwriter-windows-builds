@@ -10,6 +10,7 @@ A repository of [ghostwriter](https://github.com/wereturtle/ghostwriter) builds 
 See release tag.
 
 Version 2.0.1: portable
+
 Version 2.0.2: portable, installer (soon).
 
 # Changes made from source
