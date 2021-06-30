@@ -3,7 +3,7 @@ A repository of [ghostwriter](https://github.com/wereturtle/ghostwriter) builds 
 
 # Build
 
-[Compiled with the instructeurs from the ghostwriter repository](https://github.com/wereturtle/ghostwriter#build). Compiled from source with MSCV 2017.
+[Compiled following the instructions from the ghostwriter repository](https://github.com/wereturtle/ghostwriter#build). Compiled from source with MSCV 2017.
 
 # Releases
 
