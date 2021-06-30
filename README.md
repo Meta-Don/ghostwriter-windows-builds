@@ -9,6 +9,11 @@ A repository of [ghostwriter](https://github.com/wereturtle/ghostwriter) builds 
 
 See release tag.
 
+Version 2.0.1: portable
+Version 2.0.2: portable, installer (soon).
+
+# Changes made from source
+
 Added dictionary folder from version 1.8.1 for spelling check (didn't find it in source repo).
 
-Version 2.0.2 available: portable, installer (soon).
+
