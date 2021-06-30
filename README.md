@@ -1,6 +1,8 @@
 # ghostwriter-windows-builds
 A repository of [ghostwriter](https://github.com/wereturtle/ghostwriter) builds for Windows 10.
 
+> ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor. 
+
 # Build
 
 [Compiled following the instructions from the ghostwriter repository](https://github.com/wereturtle/ghostwriter#build). Compiled from source with MSCV 2017.
